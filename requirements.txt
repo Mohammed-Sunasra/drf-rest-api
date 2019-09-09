@@ -1,5 +1,5 @@
 #Django dependencies
-Django==2.1.7
+Django==2.1.11
 django-widget-tweaks==1.4.3
 djangorestframework==3.10.3
 #Other dependencies
